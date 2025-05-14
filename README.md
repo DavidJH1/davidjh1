@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm David Hansen
 
-<!--
-**DavidJH1/davidjh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science student at BYU-Idaho with a minor in Mathematics and a passion for building real-world, data-driven tools. I love exploring the intersection of machine learning, analytics, and software development. From forecasting product sales to creating apps and automating research workflows.
 
-Here are some ideas to get you started:
+## 🔧 Currently Working On
+- 🎵 An auto-charter for Clone Hero that turns music into guitar charts using audio analysis and machine learning.
+- 🛍️ A Shopify dashboard app to help businesses track inventory age and optimize stock.
+- 🗳️ Survey automation and email validation tools for a political science department research project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+**Languages & Tools:** Python, R, SQL, PySpark, Git/GitHub, Streamlit, Polars, Databricks  
+**Concepts:** Machine Learning, NLP, Feature Engineering, Data Wrangling, Visualization  
+**Soft Skills:** Communication, Team Collaboration, Problem-Solving, Teaching, Time Management
+
+## 📫 Connect With Me
+- 📧 [hansend.datasci@gmail.com](mailto:hansend.datasci@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/davidjh1)
+- 💼 [Resume (on request)]
+
+Thanks for stopping by!
