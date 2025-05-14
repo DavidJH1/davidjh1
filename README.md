@@ -15,5 +15,5 @@ I'm a Data Science student at BYU-Idaho with a minor in Mathematics and a passio
 ## 📫 Connect With Me
 - 📧 [hansend.datasci@gmail.com](mailto:hansend.datasci@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/davidjh1)
-- 📄 [View My Resume](https://github.com/davidjh1/davidjh1/raw/main/David_Hansen_Resume.pdf)
+- 📄 [View My Resume](https://github.com/DavidJH1/davidjh1/blob/main/Resume.pdf)
 Thanks for stopping by!
