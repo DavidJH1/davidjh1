@@ -12,6 +12,24 @@ I'm a Data Science student at BYU-Idaho with a minor in Mathematics and a passio
 **Concepts:** Machine Learning, NLP, Feature Engineering, Data Wrangling, Visualization, Warehousing
 **Soft Skills:** Communication, Team Collaboration, Problem-Solving, Teaching, Time Management
 
+## 📁 Portfolio
+__Shareable Projects__
+[Clone Hero AutoCharter](https://github.com/DavidJH1/clone-hero-autocharter)
+[Airflow Warehousing Automation](https://github.com/DavidJH1/Apache_Airflow)
+
+__Unshareable__
+**Real Deals Custom Reports**
+    - What: Worked with local small business to provide custom inventory reports.
+    - How: Used graphQL with polars to pull current store inventory and analyize with Polars.
+    - Impact: Impacted purchasing decision for jean vendors and indentified slow moving products.
+
+**BYU-I Polical Science Department Email List**
+    - What: Worked with a team built a verified email list for government empoylees for DOGE survery purposes.
+    - How:
+    - Impact:
+
+
+
 ## 📫 Connect With Me
 - 📧 [hansend.datasci@gmail.com](mailto:hansend.datasci@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/davidjh1)
