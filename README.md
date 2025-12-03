@@ -19,7 +19,7 @@ __Clone Hero Auto Charter__
     - **What:** Built a custom transformer that listens to music and generates a guitar hero guitar chart.\
     - **How:** Used librosa to make MFCC's and labeled them with publically available guitar charts.\
     - **Impact:** Trained on over 1,000 songs and the model producing predictions to songs outside the training set.\
-    - **Repo:**[Clone Hero AutoCharter](https://github.com/DavidJH1/clone-hero-autocharter)
+    - **Repo:** [Clone Hero AutoCharter](https://github.com/DavidJH1/clone-hero-autocharter).
 
 
 **Airflow Warehouse Automation**
