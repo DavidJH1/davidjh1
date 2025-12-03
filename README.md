@@ -8,9 +8,10 @@ I'm a Data Science student at BYU-Idaho with a minor in Mathematics and a passio
 - Data Analytics and website feedback for Dewey Data.
 
 ## 🧠 Skills
-**Languages & Tools:** Python, R, SQL, PySpark, Git/GitHub, Streamlit, Polars, Databricks, Snowflake
-**Concepts:** Machine Learning, NLP, Feature Engineering, Data Wrangling, Visualization, Warehousing
-**Soft Skills:** Communication, Team Collaboration, Problem-Solving, Teaching, Time Management
+
+**Languages & Tools:** Python, R, SQL, PySpark, Git/GitHub, Streamlit, Polars, Databricks, Snowflake.\
+**Concepts:** Machine Learning, NLP, Feature Engineering, Data Wrangling, Visualization, Warehousing.\
+**Soft Skills:** Communication, Team Collaboration, Problem-Solving, Teaching, Time Management.\
 
 ## 📁 Portfolio
 
