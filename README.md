@@ -43,5 +43,5 @@ __Clone Hero Auto Charter__\
 ## 📫 Connect With Me
 - 📧 [hansend.datasci@gmail.com](mailto:hansend.datasci@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/davidjh1)
-- 📄 [View My Resume](https://github.com/DavidJH1/davidjh1/blob/main/Resume.pdf)
+- 📄 [View My Resume](https://github.com/DavidJH1/davidjh1/blob/main/HansenDavid_Resume_Dec2025.pdf)
 Thanks for stopping by!
