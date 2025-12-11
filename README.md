@@ -36,7 +36,7 @@ __Clone Hero Auto Charter__\
 **BYU-I Polical Science Department Email List**\
     - **What:** Worked with a team built a verified email list for government empoylees for DOGE survery purposes.\
     - **How:** Used SMTP RCPT command to verify emails. Worked with the team to build our functions into a workable python package using peotry.\
-    - **Impact:** Validated email domains and designed a smapling stragey the cut total email validations from 10M+ to 50k. Provided a list of 100k verified emails to the BYU-I political science department.
+    - **Impact:** Validated email domains and designed a smapling stragey the cut total email validations from 10M+ to 500k. Provided a list of 100k verified emails to the BYU-I political science department.
 
 
 
